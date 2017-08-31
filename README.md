@@ -1,2 +1,2 @@
 # hello-world
-The goal is to learn a lot and create a lot. 
+I've learned that I still have a lot to learn. 
